@@ -34,7 +34,7 @@ python app.py
 ### 2.3 Запустите Consumer
 В другом терминале запустите Consumer для получения уведомлений:
 ```commandline
-python notification.py
+python notification_service.py
 ```
 
 ## 3. Использование
