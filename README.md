@@ -8,7 +8,7 @@
 ### 1.1 Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/ваш_пользователь/kafka_test.git
+git clone https://github.com/popova-iu-iu/kafka_test.git
 cd kafka_test
 ```
 
